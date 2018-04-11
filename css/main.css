@@ -11,6 +11,10 @@ p{
 	letter-spacing: 1px;
 }
 
+a{
+	text-decoration:none;
+}
+
 nav{
 	background-color: transparent;
 	height: 50px;
@@ -70,6 +74,7 @@ nav ul li a{
 #banner .inner .sub-heading{
 	line-height: 30px;
 }
+
 
 button{
 	border: none;

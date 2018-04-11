@@ -28,6 +28,13 @@ header{
 	height: 700px;
 }
 
+audio{
+	position: fixed;
+	top: 30px;
+	left:30px;
+	border:1px solid #888;
+
+}
 
 nav ul{
 	list-style: none;
